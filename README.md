@@ -6,7 +6,6 @@
 Hey! Welcome to my student profile, on this page I am showing my projects and classes, and I will write some articles, so that other people can follow a learning process. I go from basic to advanced in various program languages. I will pass on my knowledge in an easy and didactic way.</br>
 Salut! Bienvenue sur mon profil étudiant, sur cette page je présente mes projets et mes études, et j'écrirai quelques articles, afin que d'autres personnes puissent suivre un processus d'apprentissage. Je vais de basique à avancé dans divers langages de programmation. Je transmettrai mes connaissances de manière simple et didactique.</br></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shildbrok&show_icons=true&theme=dark)](https://github.com/shildbrok/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shildbrok&theme=dark&layout=compact)](https://github.com/shildbrok/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shildbrok&show_icons=true&theme=dark)](https://github.com/shildbrok/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shildbrok&theme=dark&layout=compact)](https://github.com/shildbrok/github-readme-stats)
 
 
